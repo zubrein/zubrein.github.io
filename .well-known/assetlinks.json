@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.innovationscript.android.ilaundromat",
+    "package_name": "com.digitalsense.android.londris",
     "sha256_cert_fingerprints":
-    ["B7:AD:32:F0:64:34:F6:EF:5D:40:76:9A:7D:EE:69:23:9D:F7:1C:90:D4:D0:2A:ED:A3:63:6A:C2:83:D2:19:80"]
+    ["63:EF:56:51:75:D6:E7:FA:9C:75:C6:1B:68:22:08:F9:19:35:12:DA:E3:31:D7:33:A6:1E:12:FF:E9:EC:DE:7F"]
   }
 }]
